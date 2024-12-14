@@ -1,1 +1,1 @@
-This project include details about the development of personal finance dashboard in PowerBi.
+I developed a personal finance dashboard using Power BI, which involved analyzing and visualizing financial data to track expenses, savings, and budget goals. This project enhanced my skills in data organization, visualization, and delivering insights for efficient financial management.
